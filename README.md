@@ -1,3 +1,9 @@
+# Card_Craft
+
+## Live Version: [https://card-craft.netlify.app/](https://card-craft.netlify.app/)
+
+![card-craft](https://github.com/prachiguptadev/Javascript-Projects/assets/117148255/e3ee1031-891f-45b6-9ed4-42d2d2711ce8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
